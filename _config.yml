@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Johann Tang"
-resume_title:                   "Stay At Home Dad"
+resume_title:                   "Stay at Home Dad"
 resume_contact_email:           "johann@johanntang.com"
 
 # use "yes" to display the email contact button,
